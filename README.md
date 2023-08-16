@@ -18,4 +18,4 @@ To install this project, you need to have npm installed on your system. Then, fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License.
