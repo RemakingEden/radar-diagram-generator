@@ -1,5 +1,7 @@
 # Radar Diagram Generator
 
+This was created for my work at [Answer Digital](https://answerdigital.com/). We wanted a simple way to make radar diagrams in an opinionated way with the same styling. It may grow and adapt depending on use and usefulness.
+
 This project is a simple proof of concept for generating radar diagrams using Chart.js and a custom configuration file. You can use this project to create your own radar diagrams and screenshot them for use in your documents.
 
 ## Installation
