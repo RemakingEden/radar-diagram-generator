@@ -10,9 +10,10 @@ To install this project, you need to have npm installed on your system. Then, fo
 
 1. Clone this repository to your local machine.
 2. Navigate to the project folder and run `npm install` to install the dependencies.
-3. Edit the `configuration.json` file to your liking. You can change the datasets, colors, labels, and other options for the radar diagram.
-4. Run `npm run dev` to start the development server and navigate to `http://localhost:1234`.
-5. You should see your radar diagram displayed on the screen. You can screenshot it and save it as an image file.
+3. Copy the `configuration.json.example` file to `configuration.json`. 
+4. Edit the `configuration.json` file to your liking. You can change the datasets, colors, labels, and other options for the radar diagram.
+5. Run `npm run create` to start the development server and navigate to `http://localhost:1234`.
+6. You should see your radar diagram displayed on the screen. You can screenshot it and save it as an image file.
 
 ## Example
 
